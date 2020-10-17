@@ -15,7 +15,7 @@ import './App.css';
 import "leaflet/dist/leaflet.css";
 import Footer from './components/Footer';
 import InfoSection from './components/InfoSection'
-import { homeObjOne,homeObjTwo, homeObjThree, homeObjFour} from './Data'
+import { homeObjOne,homeObjTwo, homeObjThree} from './Data'
 
 
 
