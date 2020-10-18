@@ -2,39 +2,37 @@ export const homeObjOne = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Social Distancing',
+    topLine: 'Protect Yourself',
     headline: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.',
+      "Put distance between yourself and other people (at least 6 feet), and cover your mouth and nose with as mask when around others.",
     imgStart: '',
     img: 'images/undraw_social_distancing_2g0u.svg',
-    alt: 'Vault',
+    alt: 'Social Distancing and Mask',
   };
   
   export const homeObjTwo = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Hand Washing',
+    topLine: 'Wash Your Hands',
     headline: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "Clean your hands often, either with soap and water for 20 seconds, or a hand sanitizer that contains at least 60% alcohol.",
     imgStart: '',
     img: 'images/undraw_wash_hands_nwl2.svg',
-    alt: 'Vault',
-    page: '/'
+    alt: 'Wash Your Hands',
   };
   
   export const homeObjThree = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Feeling Sick?',
+    topLine: 'See a Doctor',
     headline: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.',
+      "Keep up to date on the latest information from trusted sources, such as WHO or your local and national health authorities.",
     imgStart: '',
     img: 'images/undraw_medical_research_qg4d.svg',
-    alt: 'Vault',
-    page: '/'
+    alt: 'Medical Research',
   };

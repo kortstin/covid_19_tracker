@@ -24,6 +24,24 @@
     font-size: 1.75rem;
     margin-bottom: 0.5rem;
   }
+
+  @media (max-width: 990px) {
+    .infoBox__cases {
+      font-size: 1.25rem;
+    }
+  }
+
+  @media (max-width: 280px) {
+    
+    .infoBox__title {
+      font-size: .65rem !important;
+    }
+    
+    .infoBox__cases {
+      font-size: .75rem;
+    }
+  }
+
   
   .infoBox__total {
     color: #6c757d;

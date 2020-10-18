@@ -84,10 +84,16 @@ body {
 
 .footer {
   text-align: center;
+  padding-top: 20px;
 }
 
 .footer__text__heart {
   color: red;
+}
+
+.footer__text__link {
+  text-decoration: none;
+  color: blue
 }
 
 
