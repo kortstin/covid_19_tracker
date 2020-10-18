@@ -28,7 +28,7 @@ export const homeObjOne = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'See a Doctor',
+    topLine: 'Keep Up To Date',
     headline: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
     description:
       "Keep up to date on the latest information from trusted sources, such as WHO or your local and national health authorities.",
